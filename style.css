@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+   background-color: rgb(27, 65, 65);
+}
+
+.main_container{
+    border: 8px solid rgb(21, 128, 155);
+    background-color: rgb(15, 14, 14);
+    width: auto;
+    height: auto;
+    position: relative;
+    margin: 100px auto;
+    padding: 0px 0px;
+    background-size: cover;
+    overflow-x: hidden;
+    align-items: center;
+
+
+}
+.container{
+    width: auto;
+    text-align: center;
+    
+    color: rgb(54, 228, 228);
+    border: 2px solid whitesmoke;
+    background-color: rgb(17, 17, 17);
+    
+}
+.container h1{
+    margin: 20px auto;
+    padding: 20px auto;
+    font-size: 60px;
+}
+.box{
+    background-color:rgb(13, 14, 14);
+    width: auto;
+    
+    height: 50px;
+    text-align: center;
+    margin: 50px auto;
+}
+.box p{
+    font-size: 40px;
+    color: rgb(216, 123, 16);
+}
+.btn{
+    background-color: rgb(23, 24, 24);
+    width: auto;
+    text-align: center;
+    margin: 50px auto;
+    border: 2px solid whitesmoke;
+}
+button{
+    width: 80px;
+    height: 40px;
+    color: rgb(72, 167, 230);
+    font-size: 20px;
+    margin: 20px 30px;
+    background-color: black;
+}
